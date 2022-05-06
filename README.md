@@ -1,6 +1,11 @@
 ## DSFormer: A Dense residual network with Enhanced Transformer for image denoising. 
 
-<!-- Yao chao and Jin shuo and Liu meiqin and Ban xiaojuan -->
+<div align=center>
+
+[Beijing JiaoTong University](https://www.bjtu.edu.cn)
+
+[Institute of Information Science](https://iis.bjtu.edu.cn)
+</div>
 
 ----
 ### Abstract
@@ -13,16 +18,16 @@ Image denoising is an important low-level computer vision task, which aims to re
 
 Pipeline of proposed **Dense residual network** consisted of Enhanced Transformer.
 
-<div align=center><img src="./Fig/Arch/overall.png" width="630px" /> 
+<div align=center><img src="./Fig/Arch/overall.png" width="730px" /> 
 </div>
 
 **Enhanced Transformer**
 
 <div align=center>
-<img src="./Fig/Arch/ETransformer.png" width="550px" /> 
+<img src="./Fig/Arch/ETransformer.png" width="450px" /> 
 </div>
 
-For more details see [Paper](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Paper](https://arxiv.org).
 
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 
