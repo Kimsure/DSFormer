@@ -2,10 +2,13 @@
 ---
 
 <div align=center>
+<p>
+<a href="https://www.bjtu.edu.cn">Beijing JiaoTong University</a>
+</p>
 
-[Beijing JiaoTong University](https://www.bjtu.edu.cn)
-
-[Institute of Information Science](https://iis.bjtu.edu.cn)
+<p>
+<a href="https://iis.bjtu.edu.cn">Institute of Information Science</a>
+</p>
 </div>
 
 ----
