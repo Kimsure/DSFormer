@@ -31,7 +31,7 @@ For more details see [Paper](https://docs.github.com/en/github/writing-on-github
 
 ### Results
 
-**Synthesis Noise dataset Kodak**
+**Synthesis Noise dataset CBSD68**
 
 <div align=center>
 <img src="./Fig/Result/color-all.png" width="700px" />
