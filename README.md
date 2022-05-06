@@ -1,7 +1,7 @@
 ## DSFormer: A Dense residual network with Enhanced Transformer for image denoising. 
 ---
 
-Yao chao and Jin shuo and Liu meiqin and Ban xiaojuan
+<!-- Yao chao and Jin shuo and Liu meiqin and Ban xiaojuan -->
 
 ----
 ### Abstract
