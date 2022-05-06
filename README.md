@@ -1,4 +1,5 @@
 ## DSFormer: A Dense residual network with Enhanced Transformer for image denoising. 
+---
 
 Yao chao and Jin shuo and Liu meiqin and Ban xiaojuan
 
@@ -26,5 +27,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ----
 
 ### Citation and Reference
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```BibTex
+@article{zhang2021plug, 
+  title={DSFormer: A Dense residual network with Enhanced Transformer for image denoising. },
+  author={Yao, chao and Jin, shuo and Liu, meiqin and Ban, xiaojuan},
+  journal={ },
+  year={2022}
+}
+```
