@@ -64,7 +64,7 @@ For more details see [Paper](https://arxiv.org).
 
 
 ```BibTex
-@article{zhang2021plug, 
+@article{2022DSFormer, 
   title={DSFormer: A Dense residual network with Enhanced Transformer for image denoising. },
   author={Yao, chao and Jin, shuo and Liu, meiqin and Ban, xiaojuan},
   journal={ },
