@@ -1,9 +1,9 @@
-## DSFormer: A Dense residual network with Enhanced Transformer for image denoising. 
+## DenSformer: Dense residual Transformer for Image Denoising. 
 ---
 
 <div align=center>
 <p>
-<a href="https://www.bjtu.edu.cn">Beijing JiaoTong University</a>
+<a href="https://www.bjtu.edu.cn">Beijing Jiaotong University</a>
 </p>
 
 <p>
@@ -18,7 +18,7 @@
 ----
 ### Abstract
 
-Image denoising is an important low-level computer vision task, which aims to reconstruct a noise-free and high-quality image from a noisy image. In this paper, we proposed an image denoising network structure based on Transformer, which is named DSformer. DSformer consists of three modules, including a preprocessing module, a local-global feature extraction module, and a reconstruction module. Specifically, the local-global feature extraction module consists of several Sformer groups, each of which has several ETransformer layers and a convolution layer, together with a residual connection. These Sformer groups are densely skip-connected to fuse the feature of different layers, and they jointly capture the local and global information from the given noisy images. Experimental results prove that our DSformer achieves improvement compared to some state-of-the-art methods. In synthetic noise removal, DSformer outperforms other methods by up to 0.22 dB in gray-scale images and 0.13 dB in color images. In real noise removal, DSformer can achieve comparable performance, while the number of parameters can be reduced by up to 40%. 
+Image denoising is an important low-level computer vision task, which aims to reconstruct a noise-free and high-quality image from a noisy image. In this paper, we proposed an image denoising network structure based on Transformer, which is named DenSformer. DenSformer consists of three modules, including a preprocessing module, a local-global feature extraction module, and a reconstruction module. Specifically, the local-global feature extraction module consists of several Sformer groups, each of which has several ETransformer layers and a convolution layer, together with a residual connection. These Sformer groups are densely skip-connected to fuse the feature of different layers, and they jointly capture the local and global information from the given noisy images. Experimental results prove that our DenSformer achieves improvement compared to some state-of-the-art methods. In synthetic noise removal, DenSformer outperforms other methods by up to 0.13-0.39 dB in gray-scale images and color images. In real noise removal, DenSformer can achieve comparable performance, while the number of parameters can be reduced by up to 40%. 
 
 ---
 
@@ -55,27 +55,27 @@ For more details see [Paper](https://arxiv.org).
 <img src="./Fig/Result/SIDD.png" width="700px" />
 </div>
 
-<!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kimsure/DSFormer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
+<!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kimsure/DenSformer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
 ----
 
 ### Citation and Reference
 
 <div align=center>
-<a href="https://github.com/Kimsure/DSFormer" target="-blank" title="Github">
+<a href="https://github.com/Kimsure/DenSformer" target="-blank" title="Github">
 <img src = "Fig/Link/github.png" width="100px" hspace="40"> 
 </a>
-<a href="https://arxiv.org" target="-blank" title="paper">
+<a href="https://arxiv.org/abs/2205.06944" target="-blank" title="paper">
 <img src = "Fig/Link/arxiv.png" width="108px" hspace="40">
 </a>
 </div>
 
 
 ```BibTex
-@article{2022DSFormer, 
-  title={DSFormer: A Dense residual network with Enhanced Transformer for image denoising. },
-  author={Yao, chao and Jin, shuo and Liu, meiqin and Ban, xiaojuan},
-  journal={ },
+@article{2022DenSRT,
+  title={Dense Residual Transformer for Image Denoising},
+  author={Chao Yao and Shuo Jin and Meiqin Liu and Xiaojuan Ban},
+  journal={arXiv preprint arXiv:2205.06944},
   year={2022}
 }
 ```
