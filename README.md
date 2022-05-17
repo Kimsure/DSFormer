@@ -62,7 +62,7 @@ For more details see [Paper](https://arxiv.org).
 ### Citation and Reference
 
 <div align=center>
-<a href="https://github.com/Kimsure/DenSformer" target="-blank" title="Github">
+<a href="https://github.com/Kimsure/DSFormer" target="-blank" title="Github">
 <img src = "Fig/Link/github.png" width="100px" hspace="40"> 
 </a>
 <a href="https://arxiv.org/abs/2205.06944" target="-blank" title="paper">
