@@ -73,9 +73,9 @@ For more details see [Paper](https://arxiv.org).
 
 ```BibTex
 @article{2022DenSRT,
-  title={Dense Residual Transformer for Image Denoising},
-  author={Chao Yao and Shuo Jin and Meiqin Liu and Xiaojuan Ban},
-  journal={arXiv preprint arXiv:2205.06944},
-  year={2022}
+  title = {Dense Residual Transformer for Image Denoising},
+  author = {Chao Yao and Shuo Jin and Meiqin Liu and Xiaojuan Ban},
+  journal = {arXiv preprint arXiv:2205.06944},
+  year = {2022}
 }
 ```
